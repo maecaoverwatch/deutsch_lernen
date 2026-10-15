@@ -1,0 +1,526 @@
+# 🇩🇪 German Tenses: Present, Past, and Future
+## A beginner-friendly guide with conjugation
+
+This guide explains the three main time frames in German, how to form them, and how to conjugate the verbs involved.
+
+---
+
+## Table of Contents
+
+1. [What is a tense?](#1-what-is-a-tense)
+2. [Present tense — Präsens](#2-present-tense--präsens)
+3. [Past tense — Vergangenheit](#3-past-tense--vergangenheit)
+   - [Perfekt](#a-perfekt-the-common-conversational-past)
+   - [How to form the past participle](#how-to-form-the-past-participle-partizip-ii)
+   - [Choosing haben or sein](#choosing-haben-or-sein)
+   - [Präteritum](#b-präteritum-the-simple-past)
+4. [Future tense — Futur I](#4-future-tense--futur-i)
+5. [Compare the tenses](#5-compare-the-tenses)
+6. [Word order summary](#6-word-order-summary)
+7. [Common mistakes](#7-common-mistakes)
+8. [Practice](#8-practice)
+
+---
+
+## 1. What is a tense?
+
+A **tense** tells us when an action happens.
+
+| Time | German name | Example in English |
+|---|---|---|
+| Present | Präsens | I learn German. |
+| Past | Vergangenheit | I learned German. |
+| Future | Futur | I will learn German. |
+
+German has more than one way to talk about the past. The two important forms for beginners are **Perfekt** and **Präteritum**.
+
+## 2. Present tense — Präsens
+
+Use the present tense for:
+- Something happening now.
+- Habits and routines.
+- General facts.
+- Sometimes, a future plan when the time is clear.
+
+Examples:
+
+| German | English |
+|---|---|
+| Ich lerne Deutsch. | I learn German. / I am learning German. |
+| Ich arbeite jeden Tag. | I work every day. |
+| Wasser kocht bei 100 °C. | Water boils at 100°C. |
+| Morgen fahre ich nach Nairobi. | Tomorrow I am going to Nairobi. |
+
+### How to conjugate a regular verb
+
+**Conjugation** means changing a verb to match its subject: *I, you, he/she, we,* and so on.
+
+Take **lernen** (to learn).
+
+1. Remove **-en**: `lern-`
+2. Add the ending that matches the subject.
+
+| Subject | Ending | lernen |
+|---|---:|---|
+| ich (I) | -e | ich lerne |
+| du (you, informal singular) | -st | du lernst |
+| er/sie/es (he/she/it) | -t | er/sie/es lernt |
+| wir (we) | -en | wir lernen |
+| ihr (you, informal plural) | -t | ihr lernt |
+| sie (they) | -en | sie lernen |
+| Sie (you, formal) | -en | Sie lernen |
+
+The usual endings for regular verbs are:
+
+**-e, -st, -t, -en, -t, -en**
+
+Other regular verbs follow a similar pattern:
+
+| Infinitive | ich | du | er/sie/es | wir |
+|---|---|---|---|---|
+| machen (do/make) | mache | machst | macht | machen |
+| wohnen (live) | wohne | wohnst | wohnt | wohnen |
+| kaufen (buy) | kaufe | kaufst | kauft | kaufen |
+
+### Important irregular present-tense verbs
+
+Some common verbs do not follow the regular pattern exactly. Learn these especially well.
+
+**sein — to be**
+
+| Subject | Conjugation |
+|---|---|
+| ich | bin |
+| du | bist |
+| er/sie/es | ist |
+| wir | sind |
+| ihr | seid |
+| sie/Sie | sind |
+
+**haben — to have**
+
+| Subject | Conjugation |
+|---|---|
+| ich | habe |
+| du | hast |
+| er/sie/es | hat |
+| wir | haben |
+| ihr | habt |
+| sie/Sie | haben |
+
+**werden — to become; also used to form the future**
+
+| Subject | Conjugation |
+|---|---|
+| ich | werde |
+| du | wirst |
+| er/sie/es | wird |
+| wir | werden |
+| ihr | werdet |
+| sie/Sie | werden |
+
+Some verbs also change their vowel for **du** and **er/sie/es**:
+
+| Infinitive | ich | du | er/sie/es | Change |
+|---|---|---|---|---|
+| sprechen (speak) | spreche | sprichst | spricht | e → i |
+| lesen (read) | lese | liest | liest | e → ie |
+| fahren (travel/drive) | fahre | fährst | fährt | a → ä |
+| laufen (run/walk) | laufe | läufst | läuft | au → äu |
+
+Example: **Du sprichst Deutsch.** = You speak German.
+
+---
+
+## 3. Past tense — Vergangenheit
+
+German has two common past-tense forms:
+
+1. **Perfekt** — commonly used in everyday conversation.
+2. **Präteritum** — commonly used in written stories and narration. It is also common in speech with *sein*, *haben*, and modal verbs.
+
+Both can describe past events. They differ mainly in their grammatical structure and typical use.
+
+### A. Perfekt — the common conversational past
+
+Use Perfekt for many things that happened in the past, especially when speaking.
+
+**Structure:**
+
+**Subject + conjugated haben/sein + other information + past participle**
+
+Examples:
+
+| Present | Perfekt | English |
+|---|---|---|
+| Ich lerne Deutsch. | Ich habe Deutsch gelernt. | I learned German. |
+| Ich mache meine Arbeit. | Ich habe meine Arbeit gemacht. | I did my work. |
+| Ich kaufe Brot. | Ich habe Brot gekauft. | I bought bread. |
+| Ich gehe nach Hause. | Ich bin nach Hause gegangen. | I went home. |
+
+Notice that the helping verb is conjugated, while the past participle usually goes at the **end** of the sentence.
+
+#### Conjugating haben and sein in Perfekt
+
+The helping verb changes according to the subject.
+
+**haben**
+
+| Subject | Form |
+|---|---|
+| ich | habe |
+| du | hast |
+| er/sie/es | hat |
+| wir | haben |
+| ihr | habt |
+| sie/Sie | haben |
+
+Example with *lernen*:
+
+| Subject | Sentence |
+|---|---|
+| ich | Ich habe Deutsch gelernt. |
+| du | Du hast Deutsch gelernt. |
+| er/sie/es | Er hat Deutsch gelernt. |
+| wir | Wir haben Deutsch gelernt. |
+| ihr | Ihr habt Deutsch gelernt. |
+| sie/Sie | Sie haben Deutsch gelernt. |
+
+**sein**
+
+| Subject | Form |
+|---|---|
+| ich | bin |
+| du | bist |
+| er/sie/es | ist |
+| wir | sind |
+| ihr | seid |
+| sie/Sie | sind |
+
+Example with *gehen*:
+
+| Subject | Sentence |
+|---|---|
+| ich | Ich bin nach Hause gegangen. |
+| du | Du bist nach Hause gegangen. |
+| er/sie/es | Er ist nach Hause gegangen. |
+| wir | Wir sind nach Hause gegangen. |
+| ihr | Ihr seid nach Hause gegangen. |
+| sie/Sie | Sie sind nach Hause gegangen. |
+
+#### How to form the past participle (Partizip II)
+
+The past participle is the form of the main verb used in Perfekt, such as **gelernt**, **gemacht**, or **gegangen**.
+
+**1. Many regular verbs:** `ge- + verb stem + -t`
+
+| Infinitive | Past participle |
+|---|---|
+| lernen | gelernt |
+| machen | gemacht |
+| kaufen | gekauft |
+| spielen | gespielt |
+| fragen | gefragt |
+
+For example: `lernen → lern- → gelernt`
+
+**2. Some regular verbs ending in -t or -d, or with certain difficult endings:** add **-et**.
+
+| Infinitive | Past participle |
+|---|---|
+| arbeiten | gearbeitet |
+| warten | gewartet |
+
+**3. Many irregular verbs:** the form changes and often ends in **-en**. These need to be learned.
+
+| Infinitive | Past participle |
+|---|---|
+| gehen | gegangen |
+| sehen | gesehen |
+| sprechen | gesprochen |
+| essen | gegessen |
+| trinken | getrunken |
+| schreiben | geschrieben |
+| nehmen | genommen |
+| finden | gefunden |
+
+**4. Verbs ending in -ieren:** usually do not take **ge-**.
+
+| Infinitive | Past participle |
+|---|---|
+| studieren | studiert |
+| telefonieren | telefoniert |
+
+**5. Inseparable-prefix verbs** (often beginning with *be-, ver-, er-, ent-, emp-, zer-, miss-*): usually do not take **ge-**.
+
+| Infinitive | Past participle |
+|---|---|
+| besuchen | besucht |
+| bezahlen | bezahlt |
+| erzählen | erzählt |
+
+**6. Separable verbs:** *ge* usually goes between the prefix and the verb stem.
+
+| Infinitive | Past participle |
+|---|---|
+| aufmachen | aufgemacht |
+| einkaufen | eingekauft |
+| anrufen | angerufen |
+| aufstehen | aufgestanden |
+
+#### Choosing haben or sein
+
+Most verbs use **haben**. Many verbs use **sein** when they describe movement from one place to another or a change of state. Some common verbs with *sein* must simply be learned.
+
+| Usually with haben | Common verbs with sein |
+|---|---|
+| lernen → hat gelernt | gehen → ist gegangen |
+| machen → hat gemacht | kommen → ist gekommen |
+| kaufen → hat gekauft | fahren → ist gefahren |
+| essen → hat gegessen | aufstehen → ist aufgestanden |
+| arbeiten → hat gearbeitet | bleiben → ist geblieben |
+
+Examples:
+- Ich **habe** Pizza gegessen. = I ate pizza.
+- Ich **bin** nach Hause gegangen. = I went home.
+- Ich **bin** früh aufgestanden. = I got up early.
+
+### B. Präteritum — the simple past
+
+Präteritum also describes the past, but it usually uses **one changed verb** rather than *haben/sein + past participle*.
+
+Compare:
+
+| Perfekt | Präteritum | English |
+|---|---|---|
+| Ich habe gelernt. | Ich lernte. | I learned. |
+| Ich habe gemacht. | Ich machte. | I did/made. |
+| Ich habe gespielt. | Ich spielte. | I played. |
+
+For regular verbs, Präteritum often uses the stem + **-te** and the appropriate ending.
+
+#### Regular verb example: machen
+
+| Subject | Präteritum |
+|---|---|
+| ich | machte |
+| du | machtest |
+| er/sie/es | machte |
+| wir | machten |
+| ihr | machtet |
+| sie/Sie | machten |
+
+#### Important Präteritum forms to learn
+
+These very common verbs often use Präteritum in everyday speech.
+
+**sein — to be**
+
+| Subject | Present | Präteritum |
+|---|---|---|
+| ich | bin | war |
+| du | bist | warst |
+| er/sie/es | ist | war |
+| wir | sind | waren |
+| ihr | seid | wart |
+| sie/Sie | sind | waren |
+
+**haben — to have**
+
+| Subject | Present | Präteritum |
+|---|---|---|
+| ich | habe | hatte |
+| du | hast | hattest |
+| er/sie/es | hat | hatte |
+| wir | haben | hatten |
+| ihr | habt | hattet |
+| sie/Sie | haben | hatten |
+
+Examples:
+- Ich **war** müde. = I was tired.
+- Ich **hatte** Hunger. = I was hungry / I had hunger.
+- Ich **musste** arbeiten. = I had to work.
+
+#### When should I use Perfekt or Präteritum?
+
+| Situation | Common choice | Example |
+|---|---|---|
+| Everyday conversation about a past activity | Perfekt | Ich habe gekocht. |
+| Written stories and narration | Präteritum | Der König lebte in einem Schloss. |
+| Talking about being or having in the past | Often Präteritum, even in conversation | Ich war müde. / Ich hatte Zeit. |
+| Modal verbs in everyday speech | Often Präteritum | Ich musste arbeiten. |
+
+**Beginner tip:** Start by learning Perfekt for everyday past events. Also learn the common forms **war**, **hatte**, and the Präteritum forms of modal verbs as you meet them.
+
+---
+
+## 4. Future tense — Futur I
+
+Use Futur I to express what **will happen**. German often also uses the present tense with a future time word, but Futur I is useful to learn.
+
+**Structure:**
+
+**Subject + conjugated werden + other information + infinitive at the end**
+
+Examples:
+
+- Ich werde Deutsch lernen. = I will learn German.
+- Du wirst arbeiten. = You will work.
+- Wir werden nach Hause gehen. = We will go home.
+
+### Conjugating werden
+
+| Subject | Form |
+|---|---|
+| ich | werde |
+| du | wirst |
+| er/sie/es | wird |
+| wir | werden |
+| ihr | werdet |
+| sie/Sie | werden |
+
+### More examples
+
+| Subject | German | English |
+|---|---|---|
+| ich | Ich werde kochen. | I will cook. |
+| du | Du wirst lernen. | You will learn. |
+| er | Er wird arbeiten. | He will work. |
+| wir | Wir werden reisen. | We will travel. |
+| ihr | Ihr werdet gewinnen. | You (plural) will win. |
+| sie | Sie werden kommen. | They will come. |
+
+**Important:** In Futur I, the main verb stays in its infinitive form and goes to the end.
+
+- Correct: Ich werde Deutsch **lernen**.
+- Incorrect: Ich werde Deutsch **lerne**.
+
+### Present tense can also refer to the future
+
+When the time is clear, German often uses Präsens for a future plan:
+
+- Morgen lerne ich Deutsch. = Tomorrow I will study German.
+- Nächste Woche fahre ich nach Nairobi. = Next week I am going to Nairobi.
+
+So, **Futur I is not always necessary** when a future time expression makes the meaning clear.
+
+---
+
+## 5. Compare the tenses
+
+Here is the same idea in present, past, and future.
+
+### Verb: lernen (to learn)
+
+| Tense | German | English |
+|---|---|---|
+| Present — Präsens | Ich lerne Deutsch. | I learn / am learning German. |
+| Past — Perfekt | Ich habe Deutsch gelernt. | I learned / have learned German. |
+| Past — Präteritum | Ich lernte Deutsch. | I learned German. |
+| Future — Futur I | Ich werde Deutsch lernen. | I will learn German. |
+
+### Verb: machen (to do/make)
+
+| Tense | German | English |
+|---|---|---|
+| Present | Ich mache meine Arbeit. | I do my work. |
+| Past — Perfekt | Ich habe meine Arbeit gemacht. | I did my work. |
+| Past — Präteritum | Ich machte meine Arbeit. | I did my work. |
+| Future | Ich werde meine Arbeit machen. | I will do my work. |
+
+### Verb: gehen (to go)
+
+| Tense | German | English |
+|---|---|---|
+| Present | Ich gehe nach Hause. | I go / am going home. |
+| Past — Perfekt | Ich bin nach Hause gegangen. | I went home. |
+| Past — Präteritum | Ich ging nach Hause. | I went home. |
+| Future | Ich werde nach Hause gehen. | I will go home. |
+
+---
+
+## 6. Word order summary
+
+| Tense | Basic structure | Example |
+|---|---|---|
+| Present | Subject + conjugated verb + … | Ich lerne Deutsch. |
+| Perfekt | Subject + haben/sein + … + past participle | Ich habe Deutsch gelernt. |
+| Präteritum | Subject + past-tense verb + … | Ich lernte Deutsch. |
+| Future | Subject + werden + … + infinitive | Ich werde Deutsch lernen. |
+
+In a normal statement, the conjugated verb usually occupies the **second position**. In Perfekt and Futur I, the participle or infinitive goes at the end.
+
+Examples:
+- Heute **lerne** ich Deutsch. (Present)
+- Gestern **habe** ich Deutsch **gelernt**. (Perfekt)
+- Morgen **werde** ich Deutsch **lernen**. (Future)
+
+---
+
+## 7. Common mistakes
+
+### Mistake 1: Using the infinitive instead of the past participle
+
+- Incorrect: Ich habe Deutsch **lernen**.
+- Correct: Ich habe Deutsch **gelernt**.
+
+### Mistake 2: Forgetting the helping verb in Perfekt
+
+- Incorrect: Ich Deutsch gelernt.
+- Correct: Ich **habe** Deutsch gelernt.
+
+### Mistake 3: Using haben with every verb
+
+- Incorrect: Ich habe nach Hause gegangen.
+- Correct: Ich **bin** nach Hause gegangen.
+
+### Mistake 4: Conjugating the main verb in Futur I
+
+- Incorrect: Ich werde Deutsch **lerne**.
+- Correct: Ich werde Deutsch **lernen**.
+
+### Mistake 5: Thinking Perfekt and Präteritum mean different past times
+
+Both can refer to the same past event. Their use depends mainly on the verb, context, and whether you are speaking or writing.
+
+---
+
+## 8. Practice
+
+Try these without looking at the answers first.
+
+### A. Name the tense
+
+1. Ich spiele Fußball.
+2. Ich habe Fußball gespielt.
+3. Ich spielte Fußball.
+4. Ich werde Fußball spielen.
+
+### B. Fill in the blank
+
+5. Yesterday, I learned German: Ich ___ Deutsch gelernt.
+6. I went home: Ich ___ nach Hause gegangen.
+7. I will work: Ich ___ arbeiten.
+8. I was tired: Ich ___ müde.
+
+### Answers
+
+1. Present — Präsens
+2. Past — Perfekt
+3. Past — Präteritum
+4. Future — Futur I
+5. **habe**
+6. **bin**
+7. **werde**
+8. **war**
+
+---
+
+## Final summary
+
+- **Präsens:** `Ich lerne.` — I learn / I am learning.
+- **Perfekt:** `Ich habe gelernt.` — I learned. Common in conversation.
+- **Präteritum:** `Ich lernte.` — I learned. Common in writing; also common for *war*, *hatte*, and modal verbs in speech.
+- **Futur I:** `Ich werde lernen.` — I will learn.
+
+**Recommended learning order:** Present tense → Perfekt → common Präteritum forms (*war*, *hatte*, modal verbs) → broader Präteritum → Futur I.
